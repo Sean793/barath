@@ -1,0 +1,3 @@
+﻿Game has many locks
+  Each lock has many challenges
+       Each challenge has many conditions

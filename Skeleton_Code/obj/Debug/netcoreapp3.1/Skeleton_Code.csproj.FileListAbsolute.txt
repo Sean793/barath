@@ -1,0 +1,14 @@
+/Users/seanelliott/Projects/Skeleton_Code/Skeleton_Code/bin/Debug/netcoreapp3.1/Skeleton_Code.deps.json
+/Users/seanelliott/Projects/Skeleton_Code/Skeleton_Code/bin/Debug/netcoreapp3.1/Skeleton_Code.runtimeconfig.json
+/Users/seanelliott/Projects/Skeleton_Code/Skeleton_Code/bin/Debug/netcoreapp3.1/Skeleton_Code.runtimeconfig.dev.json
+/Users/seanelliott/Projects/Skeleton_Code/Skeleton_Code/bin/Debug/netcoreapp3.1/Skeleton_Code.dll
+/Users/seanelliott/Projects/Skeleton_Code/Skeleton_Code/bin/Debug/netcoreapp3.1/Skeleton_Code.pdb
+/Users/seanelliott/Projects/Skeleton_Code/Skeleton_Code/obj/Debug/netcoreapp3.1/Skeleton_Code.csproj.AssemblyReference.cache
+/Users/seanelliott/Projects/Skeleton_Code/Skeleton_Code/obj/Debug/netcoreapp3.1/Skeleton_Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanelliott/Projects/Skeleton_Code/Skeleton_Code/obj/Debug/netcoreapp3.1/Skeleton_Code.AssemblyInfoInputs.cache
+/Users/seanelliott/Projects/Skeleton_Code/Skeleton_Code/obj/Debug/netcoreapp3.1/Skeleton_Code.AssemblyInfo.cs
+/Users/seanelliott/Projects/Skeleton_Code/Skeleton_Code/obj/Debug/netcoreapp3.1/Skeleton_Code.csproj.CoreCompileInputs.cache
+/Users/seanelliott/Projects/Skeleton_Code/Skeleton_Code/obj/Debug/netcoreapp3.1/Skeleton_Code.dll
+/Users/seanelliott/Projects/Skeleton_Code/Skeleton_Code/obj/Debug/netcoreapp3.1/Skeleton_Code.pdb
+/Users/seanelliott/Projects/Skeleton_Code/Skeleton_Code/obj/Debug/netcoreapp3.1/Skeleton_Code.genruntimeconfig.cache
+/Users/seanelliott/Projects/Skeleton_Code/Skeleton_Code/bin/Debug/netcoreapp3.1/locks.txt
